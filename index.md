@@ -1,6 +1,7 @@
 ### Homepage
 
-Hello
+Hello.
+
 This is my homepage.
 
 
