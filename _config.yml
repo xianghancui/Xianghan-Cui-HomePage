@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+logo: me.png
 title: Xianghan Cui
 description: A Personal Research Website
+google_analytics: [https://orcid.org/0000-0002-6165-0977]
