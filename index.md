@@ -45,3 +45,7 @@ Thus, **we propose that there are two types of young radio pulsars that are prod
 2. Simulation of the gravitational wave frequency distribution of neutron star-black hole mergers, Jianwei Zhang, Chengmin Zhang, Di Li, *Xianghan Cui* et al., 2021, **Chinese Physics B**, 30, 120401. [doi:10.1088/1674-1056/abff28](https://doi.org/10.1088/1674-1056/abff28).
 
 ## Awards
+
+- 2021.11 ACAMAR 7: People's Choice Poster Award
+- 2021.10 National Scholarship (for Ph.D. students)
+- 2021.05 UCAS Merit Student
