@@ -1,7 +1,7 @@
 <h1><p align="center"> WELCOME👋 </p> </h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/98388425/151165083-9958ebda-303f-4fff-a1f3-efbace4050c6.png" width="300"/> <img src="https://user-images.githubusercontent.com/98388425/151164017-ee429f7c-d070-425f-965c-c4d79fc25086.png" width="300"/>
+<img src="https://user-images.githubusercontent.com/98388425/151188623-a1a0af9b-5f09-44f9-a815-c5df91765d00.jpg" width="300"/> <img src="https://user-images.githubusercontent.com/98388425/151164017-ee429f7c-d070-425f-965c-c4d79fc25086.png" width="300"/>
 </p> 
 
 <p align="center">
@@ -45,7 +45,9 @@ Here, we employ the statistical tests on the two groups of young radio pulsars w
 K-S and M-W-W tests indicate that the two samples have the different distributions, and the cumulative number ratio between the pulsars with (SNR-PSR) and without SNRs (non SNR-PSR) at the different spindown ages decreases significantly after 10-20 Kyr.
 Thus, **we propose that there are two types of young radio pulsars that are produced by two types of supernovae (SNe)**, corresponding to their SNR lifetimes, which can be roughly ascribed to the low-energy and high-energy SNe.
 
+<p align="center">
 <img src="https://user-images.githubusercontent.com/98388425/151129757-63b6c26d-b8e8-481f-9ae5-f817f99dfc6b.png" width="400" />  <img src="https://user-images.githubusercontent.com/98388425/151129773-22031b72-4f86-4fc6-9de0-d3759f453cd6.png" width="400" />
+</p>
 
 ## Publications (the first author)
 
