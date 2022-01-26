@@ -1,4 +1,4 @@
-![me](https://user-images.githubusercontent.com/98388425/151003989-8466b931-1971-4877-b22b-0b4401d7c43f.png)
+![me](https://user-images.githubusercontent.com/98388425/151128964-4c2b43ee-c034-4cba-a40c-f0eb44377873.png)
 
 Email: cuixianghan@nao.cas.cn
 
@@ -25,8 +25,23 @@ Interests: Pulsar, Fast Radio Burst
 
 ## Recent Work
 
+The properties of the young pulsars and their relations to the supernova remnants (SNRs) have been the interesting topics.
+Here, we employ the statistical tests on the two groups of young radio pulsars with (52) and  without (630) SNRs to reveal if they share different origins.
+K-S and M-W-W tests indicate that the two samples have the different distributions, and the cumulative number ratio between the pulsars with (SNR-PSR) and without SNRs (non SNR-PSR) at the different spindown ages decreases significantly after 10-20 Kyr.
+Thus, **we propose that there are two types of young radio pulsars that are produced by two types of supernovae (SNe)**, corresponding to their SNR lifetimes, which can be roughly ascribed to the low-energy and high-energy SNe.
+
+<img src="https://user-images.githubusercontent.com/98388425/151129757-63b6c26d-b8e8-481f-9ae5-f817f99dfc6b.png" width="400" />  <img src="https://user-images.githubusercontent.com/98388425/151129773-22031b72-4f86-4fc6-9de0-d3759f453cd6.png" width="400" />
+
 ## Publications (the first author)
 
+1. Statistical tests of young radio pulsars with/without supernova remnants: implying two origins of neutron stars, 2021, **Monthly Notices of the Royal Astronomical Society**, 508, 279. doi:10.1093/mnras/stab2498.
+2. Statistical properties of fast radio bursts elucidate their origins: magnetars are favored over gamma-ray bursts, 2021, **Research in Astronomy and Astrophysics**, 21, 211. doi:10.1088/1674-4527/21/8/211.
+3. Fast radio bursts: do repeaters and non-repeaters originate in statistically similar ensembles?, 2021, **Monthly Notices of the Royal Astronomical Society**,  500, 3275. doi:10.1093/mnras/staa3351.
+4. Nonparaxial propagation of vector vortex beams diffracted by a circular aperture, 2019, **Journal of the Optical Society of America A**, 36, 115-123. doi:10.1364/josaa.36.000115.
+
 ## Collaborative Articles (co-author)
+
+1. Gaussian mixture models of the total mass distribution of stellar black holes from LIGO-Virgo GWTC-2: Implications on the origin of GW190521, Jianwei Zhang, Chengmin Zhang, Di Li, Wuming Yang, *Xianghan Cui* et al., 2021, **Physical Review D**, 104, 103010. doi:10.1103/PhysRevD.104.103010.
+2. Simulation of the gravitational wave frequency distribution of neutron star-black hole mergers, Jianwei Zhang, Chengmin Zhang, Di Li, *Xianghan Cui* et al., 2021, **Chinese Physics B**, 30, 120401. doi:10.1088/1674-1056/abff28.
 
 ## Awards
