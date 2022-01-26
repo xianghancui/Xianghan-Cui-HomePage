@@ -1,4 +1,4 @@
-<h1><p align="center"> HomePage of <br> Xianghan Cui (崔翔翰) </p> </h1>
+<h1><p align="center"> Welcome👋 </p> </h1>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/98388425/151128964-4c2b43ee-c034-4cba-a40c-f0eb44377873.png"> <img src="https://user-images.githubusercontent.com/98388425/151128964-4c2b43ee-c034-4cba-a40c-f0eb44377873.png">
