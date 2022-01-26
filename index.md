@@ -1,19 +1,34 @@
-![me](https://user-images.githubusercontent.com/98388425/151128964-4c2b43ee-c034-4cba-a40c-f0eb44377873.png)
+# <p align="center"> HomePage of <br> Xianghan Cui (崔翔翰) </p> 
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/98388425/151128964-4c2b43ee-c034-4cba-a40c-f0eb44377873.png">
+</p> 
+
+<p align="center">
 Email: cuixianghan@nao.cas.cn
+</p> 
 
-ORCID: [https://orcid.org/0000-0002-6165-0977](https://orcid.org/0000-0002-6165-0977 "Welcome")
+<p align="center">
+ORCID: <a href="https://orcid.org/0000-0002-6165-0977">https://orcid.org/0000-0002-6165-0977</a>
+</p> 
 
-Address: Chinese Academy of Sciences, National Astronomical Observatories, [ISM Research Group](http://groups.bao.ac.cn/ism/)
+<p align="center">
+ResearchGate: <a href="https://www.researchgate.net/profile/Xianghan-Cui">https://www.researchgate.net/profile/Xianghan-Cui</a>
+</p> 
 
+<p align="center">
+Address: Chinese Academy of Sciences, National Astronomical Observatories, <a href="http://groups.bao.ac.cn/ism/">ISM Research Group</a>
+</p>
+
+<p align="center">
 Interests: Pulsar, Fast Radio Burst
+</p> 
 
 ***
 
 <br>
 
 ## Higher Education
-
 - 2019.09-now  University of Chinese Academy of Sciences (UCAS), National Astronomical Observatories (NAOC), Radio Astronomy, Master and Ph.D. student
 - 2017.03-2018.03  Huazhong University of Science and Technology (HUST), School of Management (Second degree)
 - 2015.09-2019.06  Wuhan University of Technology (WUT), School of Natural Sciences, Department of Physics (Major BSc degree)
