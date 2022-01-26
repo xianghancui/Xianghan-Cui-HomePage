@@ -1,7 +1,7 @@
 <h1><p align="center"> WELCOME👋 </p> </h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/98388425/151188623-a1a0af9b-5f09-44f9-a815-c5df91765d00.jpg" width="300"/> <img src="https://user-images.githubusercontent.com/98388425/151164017-ee429f7c-d070-425f-965c-c4d79fc25086.png" width="300"/>
+<img src="https://user-images.githubusercontent.com/98388425/151188623-a1a0af9b-5f09-44f9-a815-c5df91765d00.jpg" width="300"/> <img src="https://user-images.githubusercontent.com/98388425/151189573-927143e0-41eb-448e-8ddc-30b0e2d46018.jpg" width="300"/>
 </p> 
 
 <p align="center">
