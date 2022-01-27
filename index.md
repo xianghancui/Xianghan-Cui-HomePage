@@ -53,7 +53,7 @@ Thus, **we propose that there are two types of young radio pulsars that are prod
 
 ## Publications (the first author)
 
-1. Statistical tests of young radio pulsars with/without supernova remnants: implying two origins of neutron stars, 2021, **Monthly Notices of the Royal Astronomical Society**, 508, 279. [doi:10.1093/mnras/stab2498](https://doi.org/10.1088/1674-1056/abff28).
+1. Statistical tests of young radio pulsars with/without supernova remnants: implying two origins of neutron stars, 2021, **Monthly Notices of the Royal Astronomical Society**, 508, 279. [doi:10.1093/mnras/stab2498](https://doi.org/10.1093/mnras/stab2498).
 2. Statistical properties of fast radio bursts elucidate their origins: magnetars are favored over gamma-ray bursts, 2021, **Research in Astronomy and Astrophysics**, 21, 211. [doi:10.1088/1674-4527/21/8/211](https://doi.org/10.1088/1674-4527/21/8/211).
 3. Fast radio bursts: do repeaters and non-repeaters originate in statistically similar ensembles?, 2021, **Monthly Notices of the Royal Astronomical Society**,  500, 3275. [doi:10.1093/mnras/staa3351](https://doi.org/10.1093/mnras/staa3351).
 4. Nonparaxial propagation of vector vortex beams diffracted by a circular aperture, 2019, **Journal of the Optical Society of America A**, 36, 115-123. [doi:10.1364/josaa.36.000115](https://doi.org/10.1364/josaa.36.000115).
@@ -68,3 +68,7 @@ Thus, **we propose that there are two types of young radio pulsars that are prod
 - 2021.11 ACAMAR 7: People's Choice Poster Award
 - 2021.10 National Scholarship (for Ph.D. students)
 - 2021.05 UCAS Merit Student
+
+<br>
+<br>
+<br>
