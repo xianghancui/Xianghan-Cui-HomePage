@@ -15,7 +15,7 @@ ORCID: <a href="https://orcid.org/0000-0002-6165-0977">https://orcid.org/0000-00
 </p> 
 
 <p align="center">
-ResearchGate: <a href="https://www.researchgate.net/profile/Xianghan-Cui" target="view_window">https://www.researchgate.net/profile/Xianghan-Cui</a>
+ResearchGate: <a href="https://www.researchgate.net/profile/Xianghan-Cui" target='_blank'>https://www.researchgate.net/profile/Xianghan-Cui</a>
 </p> 
 
 <p align="center">
