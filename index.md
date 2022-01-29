@@ -19,7 +19,7 @@ ResearchGate: <a href="https://www.researchgate.net/profile/Xianghan-Cui">https:
 </p> 
 
 <p align="center">
-Address: Chinese Academy of Sciences, National Astronomical Observatories, <a href="http://groups.bao.ac.cn/ism/">ISM Research Group</a>
+Address: National Astronomical Observatories, Chinese Academy of Sciences, Beijing, China
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ Interests: Pulsar, Fast Radio Burst
 <br>
 
 ## Higher Education
-- 2019.09-now  University of Chinese Academy of Sciences (UCAS), National Astronomical Observatories (NAOC), Radio Astronomy, Master and Ph.D. student
+- 2019.09-now  University of Chinese Academy of Sciences (UCAS), National Astronomical Observatories (NAOC), Radio Astronomy, <a href="http://groups.bao.ac.cn/ism/">ISM Research Group</a>, Master and Ph.D. student
 - 2017.03-2018.03  Huazhong University of Science and Technology (HUST), School of Management (Second degree)
 - 2015.09-2019.06  Wuhan University of Technology (WUT), School of Natural Sciences, Department of Physics (Major BSc degree)
 
