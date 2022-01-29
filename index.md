@@ -31,9 +31,9 @@ Interests: Pulsar, Fast Radio Burst
 <br>
 
 ## Higher Education
-- 2019.09-now  University of Chinese Academy of Sciences (UCAS), National Astronomical Observatories (NAOC), Radio Astronomy, <a href="http://groups.bao.ac.cn/ism/">ISM Research Group</a>, Master and Ph.D. student
-- 2017.03-2018.03  Huazhong University of Science and Technology (HUST), School of Management (Second degree)
-- 2015.09-2019.06  Wuhan University of Technology (WUT), School of Natural Sciences, Department of Physics (Major BSc degree)
+- 2019.09-now  University of Chinese Academy of Sciences (UCAS), National Astronomical Observatories (NAOC), Radio Astronomy, <a href="http://groups.bao.ac.cn/ism/">ISM Research Group</a>, Master and PhD. student
+- 2017.03-2018.03  Huazhong University of Science and Technology (HUST), School of Management (Minor degree)
+- 2015.09-2019.06  Wuhan University of Technology (WUT), School of Natural Sciences, Department of Physics (Major B.S. degree)
 
 ## Research Experience
 - Research of neutron star magnetic field and its structure based on HXMT observation, Joint Funds of the National Natural Science Foundation of China, Ph.D. Student Participant, 2020-now
@@ -42,9 +42,9 @@ Interests: Pulsar, Fast Radio Burst
 
 ## Recent Work
 
-The properties of the young pulsars and their relations to the supernova remnants (SNRs) have been the interesting topics.
-Here, we employ the statistical tests on the two groups of young radio pulsars with (52) and  without (630) SNRs to reveal if they share different origins.
-K-S and M-W-W tests indicate that the two samples have the different distributions, and the cumulative number ratio between the pulsars with (SNR-PSR) and without SNRs (non SNR-PSR) at the different spindown ages decreases significantly after 10-20 Kyr.
+The properties of the young pulsars and their relations to the supernova remnants (SNRs) have been interesting topics.
+Here, we employ the statistical tests on the two groups of young radio pulsars with (52) and without (630) SNRs to reveal if they share different origins.
+K-S and M-W-W tests indicate that the two samples have different distributions, and the cumulative number ratio between the pulsars with (SNR-PSR) and without SNRs (non SNR-PSR) at the different spindown ages decreases significantly after 10-20 Kyr.
 Thus, **we propose that there are two types of young radio pulsars that are produced by two types of supernovae (SNe)**, corresponding to their SNR lifetimes, which can be roughly ascribed to the low-energy and high-energy SNe.
 
 <p align="center">
