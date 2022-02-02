@@ -48,12 +48,14 @@ Interests: Pulsar, Fast Radio Burst
 - 2015.09-2019.06  Wuhan University of Technology (WUT), School of Natural Sciences, Department of Physics (Major B.S. degree)
 
 <br>
+
 ## Research Experience
 - Research of neutron star magnetic field and its structure based on HXMT observation, Joint Funds of the National Natural Science Foundation of China, Ph.D. Student Participant, 2020-present
 - Pulsar statistics, timing observations and theoretical studies based on the FAST drift scanning survey data, State Key Program of National Natural Science of China, Ph.D. Student Participant, 2019-2021
 - Study on vectority, beam quality, and partial coherence of axisymmetric polarized beams, National Students Innovation and Entrepreneurship Training Program, Principal Investigator, 2017-2019
 
 <br>
+
 ## Recent Work
 
 The properties of the young pulsars and their relations to the supernova remnants (SNRs) have been interesting topics.
@@ -66,6 +68,7 @@ Thus, **we propose that there are two types of young radio pulsars that are prod
 </p>
 
 <br>
+
 ## Publications (the first author)
 
 1. **2021**, **Xianghan Cui**, Chengmin Zhang, Di Li, Jianwei Zhang, Bo Peng, Weiwei Zhu, Qingdong Wu, Shuangqiang Wang, Na Wang, Dehua Wang, Yiyan Yang, Zhenqi Diao, Changqing Ye, and Hsiangkuang Chang, *Statistical tests of young radio pulsars with/without supernova remnants: implying two origins of neutron stars*, Monthly Notices of the Royal Astronomical Society, 508, 279. [doi:10.1093/mnras/stab2498](https://doi.org/10.1093/mnras/stab2498).
@@ -74,12 +77,14 @@ Thus, **we propose that there are two types of young radio pulsars that are prod
 4. **2019**, **Xianghan Cui**, Chaolin Wang, and Xinting Jia, *Nonparaxial propagation of vector vortex beams diffracted by a circular aperture*, Journal of the Optical Society of America A, 36, 115-123. [doi:10.1364/josaa.36.000115](https://doi.org/10.1364/josaa.36.000115).
 
 <br>
+
 ## Collaborative Articles (co-author)
 
 1. **2021**, Jianwei Zhang, Chengmin Zhang, Di Li, Wuming Yang, **Xianghan Cui**, Dehua Wang, Yiyan Yang, Shaolan Bi, and Xianfei Zhang, *Gaussian mixture models of the total mass distribution of stellar black holes from LIGO-Virgo GWTC-2: Implications on the origin of GW190521*, Physical Review D, 104, 103010. [doi:10.1103/PhysRevD.104.103010](https://doi.org/10.1103/PhysRevD.104.103010).
 2. **2021**, Jianwei Zhang, Chengmin Zhang, Di Li, **Xianghan Cui**, Wuming Yang, Dehua Wang, Yiyan Yang, Shaolan Bi, and Xianfei Zhang, *Simulation of the gravitational wave frequency distribution of neutron star-black hole mergers*, 2021, Chinese Physics B, 30, 120401. [doi:10.1088/1674-1056/abff28](https://doi.org/10.1088/1674-1056/abff28).
 
 <br>
+
 ## Awards
 
 - 2021.11 ACAMAR 7: People's Choice Poster Award
