@@ -65,15 +65,15 @@ Thus, **we propose that there are two types of young radio pulsars that are prod
 
 ## Publications (the first author)
 
-1. Statistical tests of young radio pulsars with/without supernova remnants: implying two origins of neutron stars, 2021, **Monthly Notices of the Royal Astronomical Society**, 508, 279. [doi:10.1093/mnras/stab2498](https://doi.org/10.1093/mnras/stab2498).
-2. Statistical properties of fast radio bursts elucidate their origins: magnetars are favored over gamma-ray bursts, 2021, **Research in Astronomy and Astrophysics**, 21, 211. [doi:10.1088/1674-4527/21/8/211](https://doi.org/10.1088/1674-4527/21/8/211).
-3. Fast radio bursts: do repeaters and non-repeaters originate in statistically similar ensembles?, 2021, **Monthly Notices of the Royal Astronomical Society**,  500, 3275. [doi:10.1093/mnras/staa3351](https://doi.org/10.1093/mnras/staa3351).
-4. Nonparaxial propagation of vector vortex beams diffracted by a circular aperture, 2019, **Journal of the Optical Society of America A**, 36, 115-123. [doi:10.1364/josaa.36.000115](https://doi.org/10.1364/josaa.36.000115).
+1. **2021**, **Xianghan Cui**, Chengmin Zhang, Di Li, Jianwei Zhang, Bo Peng, Weiwei Zhu, Qingdong Wu, Shuangqiang Wang, Na Wang, Dehua Wang, Yiyan Yang, Zhenqi Diao, Changqing Ye, and Hsiangkuang Chang, *Statistical tests of young radio pulsars with/without supernova remnants: implying two origins of neutron stars*, Monthly Notices of the Royal Astronomical Society, 508, 279. [doi:10.1093/mnras/stab2498](https://doi.org/10.1093/mnras/stab2498).
+2. **2021**, **Xianghan Cui**, Chengmin Zhang, Shuangqiang Wang, Jianwei Zhang, Di Li, Bo Peng, Weiwei Zhu, Richard Strom, Na Wang, Qingdong Wu, Changqing Ye, Dehua Wang, Yiyan Yang, and Zhenqi Diao, *Statistical properties of fast radio bursts elucidate their origins: magnetars are favored over gamma-ray bursts*, Research in Astronomy and Astrophysics, 21, 211. [doi:10.1088/1674-4527/21/8/211](https://doi.org/10.1088/1674-4527/21/8/211).
+3. **2020**, **Xianghan Cui**, Chengmin Zhang, Shuangqiang Wang, Jianwei Zhang, Di Li, Bo Peng, Weiwei Zhu, Na Wang, Richard Strom, Changqing Ye, Dehua Wang, and Yiyan Yang, *Fast radio bursts: do repeaters and non-repeaters originate in statistically similar ensembles?*, Monthly Notices of the Royal Astronomical Society, 500, 3275. [doi:10.1093/mnras/staa3351](https://doi.org/10.1093/mnras/staa3351).
+4. **2019**, **Xianghan Cui**, Chaolin Wang, and Xinting Jia, *Nonparaxial propagation of vector vortex beams diffracted by a circular aperture*, Journal of the Optical Society of America A, 36, 115-123. [doi:10.1364/josaa.36.000115](https://doi.org/10.1364/josaa.36.000115).
 
 ## Collaborative Articles (co-author)
 
-1. Gaussian mixture models of the total mass distribution of stellar black holes from LIGO-Virgo GWTC-2: Implications on the origin of GW190521, Jianwei Zhang, Chengmin Zhang, Di Li, Wuming Yang, *Xianghan Cui* et al., 2021, **Physical Review D**, 104, 103010. [doi:10.1103/PhysRevD.104.103010](https://doi.org/10.1103/PhysRevD.104.103010).
-2. Simulation of the gravitational wave frequency distribution of neutron star-black hole mergers, Jianwei Zhang, Chengmin Zhang, Di Li, *Xianghan Cui* et al., 2021, **Chinese Physics B**, 30, 120401. [doi:10.1088/1674-1056/abff28](https://doi.org/10.1088/1674-1056/abff28).
+1. **2021**, Jianwei Zhang, Chengmin Zhang, Di Li, Wuming Yang, **Xianghan Cui**, Dehua Wang, Yiyan Yang, Shaolan Bi, and Xianfei Zhang, *Gaussian mixture models of the total mass distribution of stellar black holes from LIGO-Virgo GWTC-2: Implications on the origin of GW190521*, Physical Review D, 104, 103010. [doi:10.1103/PhysRevD.104.103010](https://doi.org/10.1103/PhysRevD.104.103010).
+2. **2021**, Jianwei Zhang, Chengmin Zhang, Di Li, **Xianghan Cui**, Wuming Yang, Dehua Wang, Yiyan Yang, Shaolan Bi, and Xianfei Zhang, *Simulation of the gravitational wave frequency distribution of neutron star-black hole mergers*, 2021, Chinese Physics B, 30, 120401. [doi:10.1088/1674-1056/abff28](https://doi.org/10.1088/1674-1056/abff28).
 
 ## Awards
 
