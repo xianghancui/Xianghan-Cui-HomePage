@@ -47,8 +47,7 @@ Interests: Pulsar, Fast Radio Burst
 - 2017.03-2018.06  Huazhong University of Science and Technology (HUST), School of Management (Minor degree)
 - 2015.09-2019.06  Wuhan University of Technology (WUT), School of Natural Sciences, Department of Physics (Major B.S. degree)
 
-
-[<img src="https://user-images.githubusercontent.com/98388425/152090590-0ecd50d8-2885-46c7-93e6-d794632297a7.jpg" width="30" title='Return to TOP' align="right">/>](#jump)
+[<img src="https://user-images.githubusercontent.com/98388425/152090590-0ecd50d8-2885-46c7-93e6-d794632297a7.jpg" width="30" title='Return to TOP' align="right"/>](#jump)
 
 <br>
 
@@ -56,6 +55,8 @@ Interests: Pulsar, Fast Radio Burst
 - Research of neutron star magnetic field and its structure based on HXMT observation, Joint Funds of the National Natural Science Foundation of China, Ph.D. Student Participant, 2020-present
 - Pulsar statistics, timing observations and theoretical studies based on the FAST drift scanning survey data, State Key Program of National Natural Science of China, Ph.D. Student Participant, 2019-2021
 - Study on vectority, beam quality, and partial coherence of axisymmetric polarized beams, National Students Innovation and Entrepreneurship Training Program, Principal Investigator, 2017-2019
+
+[<img src="https://user-images.githubusercontent.com/98388425/152090590-0ecd50d8-2885-46c7-93e6-d794632297a7.jpg" width="30" title='Return to TOP' align="right"/>](#jump)
 
 <br>
 
@@ -70,6 +71,8 @@ Thus, **we propose that there are two types of young radio pulsars that are prod
 <img src="https://user-images.githubusercontent.com/98388425/151129757-63b6c26d-b8e8-481f-9ae5-f817f99dfc6b.png" width="400" />  <img src="https://user-images.githubusercontent.com/98388425/151129773-22031b72-4f86-4fc6-9de0-d3759f453cd6.png" width="400" />
 </p>
 
+[<img src="https://user-images.githubusercontent.com/98388425/152090590-0ecd50d8-2885-46c7-93e6-d794632297a7.jpg" width="30" title='Return to TOP' align="right"/>](#jump)
+
 <br>
 
 ## Publications (the first author)
@@ -79,12 +82,16 @@ Thus, **we propose that there are two types of young radio pulsars that are prod
 3. **2020**, **Xianghan Cui**, Chengmin Zhang, Shuangqiang Wang, Jianwei Zhang, Di Li, Bo Peng, Weiwei Zhu, Na Wang, Richard Strom, Changqing Ye, Dehua Wang, and Yiyan Yang, *Fast radio bursts: do repeaters and non-repeaters originate in statistically similar ensembles?*, Monthly Notices of the Royal Astronomical Society, 500, 3275. [doi:10.1093/mnras/staa3351](https://doi.org/10.1093/mnras/staa3351).
 4. **2019**, **Xianghan Cui**, Chaolin Wang, and Xinting Jia, *Nonparaxial propagation of vector vortex beams diffracted by a circular aperture*, Journal of the Optical Society of America A, 36, 115-123. [doi:10.1364/josaa.36.000115](https://doi.org/10.1364/josaa.36.000115).
 
+[<img src="https://user-images.githubusercontent.com/98388425/152090590-0ecd50d8-2885-46c7-93e6-d794632297a7.jpg" width="30" title='Return to TOP' align="right"/>](#jump)
+
 <br>
 
 ## Collaborative Articles (co-author)
 
 1. **2021**, Jianwei Zhang, Chengmin Zhang, Di Li, Wuming Yang, **Xianghan Cui**, Dehua Wang, Yiyan Yang, Shaolan Bi, and Xianfei Zhang, *Gaussian mixture models of the total mass distribution of stellar black holes from LIGO-Virgo GWTC-2: Implications on the origin of GW190521*, Physical Review D, 104, 103010. [doi:10.1103/PhysRevD.104.103010](https://doi.org/10.1103/PhysRevD.104.103010).
 2. **2021**, Jianwei Zhang, Chengmin Zhang, Di Li, **Xianghan Cui**, Wuming Yang, Dehua Wang, Yiyan Yang, Shaolan Bi, and Xianfei Zhang, *Simulation of the gravitational wave frequency distribution of neutron star-black hole mergers*, 2021, Chinese Physics B, 30, 120401. [doi:10.1088/1674-1056/abff28](https://doi.org/10.1088/1674-1056/abff28).
+
+[<img src="https://user-images.githubusercontent.com/98388425/152090590-0ecd50d8-2885-46c7-93e6-d794632297a7.jpg" width="30" title='Return to TOP' align="right"/>](#jump)
 
 <br>
 
@@ -93,6 +100,8 @@ Thus, **we propose that there are two types of young radio pulsars that are prod
 - 2021.11 ACAMAR 7: People's Choice Poster Award
 - 2021.10 National Scholarship (for Ph.D. students)
 - 2021.05 UCAS Merit Student
+
+[<img src="https://user-images.githubusercontent.com/98388425/152090590-0ecd50d8-2885-46c7-93e6-d794632297a7.jpg" width="30" title='Return to TOP' align="right"/>](#jump)
 
 <br>
 <br>
