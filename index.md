@@ -30,13 +30,25 @@ Interests: Pulsar, Fast Radio Burst
 
 <br>
 
+## Outlook
+1. <h4><a href="https://xianghancui.github.io/#higher-education" target='_blank' >Higher Education</a></h4>
+2. <h4><a href="https://xianghancui.github.io/#research-experience" target='_blank' >Research Experience</a></h4>
+3. <h4><a href="https://xianghancui.github.io/#recent-work" target='_blank' >Recent Work</a></h4>
+4. <h4><a href="https://xianghancui.github.io/#publications-the-first-author" target='_blank' >Publications</a></h4>
+5. <h4><a href="https://xianghancui.github.io/#collaborative-articles-co-author" target='_blank' >Collaborative Articles</a></h4>
+6. <h4><a href="https://xianghancui.github.io/#awards" target='_blank' >Awards</a></h4>
+
+***
+
+<br>
+
 ## Higher Education
 - 2019.09-present  University of Chinese Academy of Sciences (UCAS), National Astronomical Observatories (NAOC), Radio Astronomy, <a href="http://groups.bao.ac.cn/ism/" target='_blank' title='WELCOME to visit ISM👋'>ISM Research Group</a>, Master and PhD. student
 - 2017.03-2018.06  Huazhong University of Science and Technology (HUST), School of Management (Minor degree)
 - 2015.09-2019.06  Wuhan University of Technology (WUT), School of Natural Sciences, Department of Physics (Major B.S. degree)
 
 ## Research Experience
-- Research of neutron star magnetic field and its structure based on HXMT observation, Joint Funds of the National Natural Science Foundation of China, Ph.D. Student Participant, 2020-now
+- Research of neutron star magnetic field and its structure based on HXMT observation, Joint Funds of the National Natural Science Foundation of China, Ph.D. Student Participant, 2020-present
 - Pulsar statistics, timing observations and theoretical studies based on the FAST drift scanning survey data, State Key Program of National Natural Science of China, Ph.D. Student Participant, 2019-2021
 - Study on vectority, beam quality, and partial coherence of axisymmetric polarized beams, National Students Innovation and Entrepreneurship Training Program, Principal Investigator, 2017-2019
 
