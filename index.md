@@ -98,7 +98,10 @@ Thus, **we propose that there are two types of young radio pulsars that are prod
 [<img src="https://user-images.githubusercontent.com/98388425/152090590-0ecd50d8-2885-46c7-93e6-d794632297a7.jpg" width="30" title='Return to TOP' align="right"/>](#jump)
 
 <br>
-ResearchGate: <a href="https://mp.weixin.qq.com/s/1J7HHWrEAsAYnPYcebpm7w" target='_blank' title='WELCOME to my ResearchGate👋'>weixin</a>
+
+- ResearchGate: <a href="https://mp.weixin.qq.com/s/1J7HHWrEAsAYnPYcebpm7w" target='_blank' title='WELCOME to my ResearchGate👋'>weixin</a>
+- ResearchGate: <a href="https://mp.weixin.qq.com/s/1J7HHWrEAsAYnPYcebpm7w" target='_blank' title='WELCOME to my ResearchGate👋'>weixin</a>
+- ResearchGate: <a href="https://mp.weixin.qq.com/s/1J7HHWrEAsAYnPYcebpm7w" target='_blank' title='WELCOME to my ResearchGate👋'>weixin</a>
 
 
 <br>
