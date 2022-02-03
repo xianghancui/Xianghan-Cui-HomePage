@@ -36,8 +36,8 @@ Interests: Pulsar, Fast Radio Burst
 3. <h4><a href="https://xianghancui.github.io/#recent-work" >Recent Work</a></h4>
 4. <h4><a href="https://xianghancui.github.io/#publications-the-first-author" >Publications</a></h4>
 5. <h4><a href="https://xianghancui.github.io/#collaborative-articles-co-author" >Collaborative Articles</a></h4>
-6. <h4><a href="https://xianghancui.github.io/#awards" >Awards</a></h4>
-7. <h4><a href="https://xianghancui.github.io/#book" >Book</a></h4>
+6. <h4><a href="https://xianghancui.github.io/#book" >Book</a></h4>
+7. <h4><a href="https://xianghancui.github.io/#awards" >Awards</a></h4>
 8. <h4><a href="https://xianghancui.github.io/#more-readings" >More Readings</a></h4>
 
 ***
