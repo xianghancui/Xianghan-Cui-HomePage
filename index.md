@@ -101,7 +101,7 @@ Thus, **we propose that there are two types of young radio pulsars that are prod
 
 ## More Readings
 
-- [A brief introduction on this site](https://mp.weixin.qq.com/s/2UJfXPuahXZYeTqhgBQnAw)
+- <a href="https://mp.weixin.qq.com/s/2UJfXPuahXZYeTqhgBQnAw" target='_blank' title='WELCOME to my ORCID👋'>A brief introduction on this site</a>
 
 Coming soon for more...
 [<img src="https://user-images.githubusercontent.com/98388425/152090590-0ecd50d8-2885-46c7-93e6-d794632297a7.jpg" width="30" title='Return to TOP' align="right"/>](#jump)
