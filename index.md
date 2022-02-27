@@ -23,7 +23,7 @@ Address: National Astronomical Observatories, Chinese Academy of Sciences, Beiji
 </p>
 
 <p align="center">
-Interests: Fast Radio Burst, Pulsar
+Research Interests: Fast Radio Burst, Pulsar
 </p> 
 
 ***
@@ -43,7 +43,7 @@ Interests: Fast Radio Burst, Pulsar
 <br>
 
 ## Higher Education
-- 2019.09-present  University of Chinese Academy of Sciences (UCAS), National Astronomical Observatories (NAOC), Radio Astronomy, <a href="http://groups.bao.ac.cn/ism/" target='_blank' title='WELCOME to visit ISM👋'>ISM Research Group</a>, Master and PhD. student
+- 2019.09-present  University of Chinese Academy of Sciences (UCAS), National Astronomical Observatories (NAOC), Radio Astronomy, <a href="http://groups.bao.ac.cn/ism/" target='_blank' title='WELCOME to visit ISM👋'>ISM Research Group</a>, Master and Ph.D. student
 - 2017.03-2018.06  Huazhong University of Science and Technology (HUST), School of Management (Minor degree)
 - 2015.09-2019.06  Wuhan University of Technology (WUT), School of Natural Sciences, Department of Physics (Major B.S. degree)
 [<img src="https://user-images.githubusercontent.com/98388425/152090590-0ecd50d8-2885-46c7-93e6-d794632297a7.jpg" width="30" title='Return to TOP' align="right"/>](#jump)
@@ -51,8 +51,8 @@ Interests: Fast Radio Burst, Pulsar
 <br>
 
 ## Research Experience
-- Research of neutron star magnetic field and its structure based on HXMT observation, Joint Funds of the National Natural Science Foundation of China, Ph.D. Student Participant, 2020-present
-- Pulsar statistics, timing observations and theoretical studies based on the FAST drift scanning survey data, State Key Program of National Natural Science of China, Ph.D. Student Participant, 2019-2021
+- Research of neutron star magnetic field and its structure based on HXMT observation, Joint Funds of the National Natural Science Foundation of China, Ph.D. student participant, 2020-present
+- Pulsar statistics, timing observations and theoretical studies based on the FAST drift scanning survey data, State Key Program of National Natural Science of China, Ph.D. student participant, 2019-2021
 - Study on vectority, beam quality, and partial coherence of axisymmetric polarized beams, National Students Innovation and Entrepreneurship Training Program, Principal Investigator, 2017-2019
 [<img src="https://user-images.githubusercontent.com/98388425/152090590-0ecd50d8-2885-46c7-93e6-d794632297a7.jpg" width="30" title='Return to TOP' align="right"/>](#jump)
 
