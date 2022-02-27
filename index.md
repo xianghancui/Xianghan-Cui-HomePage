@@ -23,7 +23,7 @@ Address: National Astronomical Observatories, Chinese Academy of Sciences, Beiji
 </p>
 
 <p align="center">
-Interests: Pulsar, Fast Radio Burst
+Interests: Fast Radio Burst, Pulsar
 </p> 
 
 ***
@@ -34,11 +34,9 @@ Interests: Pulsar, Fast Radio Burst
 1. <h4><a href="https://xianghancui.github.io/#higher-education" >Higher Education</a></h4>
 2. <h4><a href="https://xianghancui.github.io/#research-experience" >Research Experience</a></h4>
 3. <h4><a href="https://xianghancui.github.io/#recent-work" >Recent Work</a></h4>
-4. <h4><a href="https://xianghancui.github.io/#publications-the-first-author" >Publications</a></h4>
-5. <h4><a href="https://xianghancui.github.io/#collaborative-articles-co-author" >Collaborative Articles</a></h4>
-6. <h4><a href="https://xianghancui.github.io/#book" >Book</a></h4>
-7. <h4><a href="https://xianghancui.github.io/#awards" >Awards</a></h4>
-8. <h4><a href="https://xianghancui.github.io/#more-readings" >More Readings</a></h4>
+4. <h4><a href="https://xianghancui.github.io/#publications" >Publications</a></h4>
+5. <h4><a href="https://xianghancui.github.io/#awards" >Awards</a></h4>
+6. <h4><a href="https://xianghancui.github.io/#more-readings" >More Readings</a></h4>
 
 ***
 
@@ -61,7 +59,6 @@ Interests: Pulsar, Fast Radio Burst
 <br>
 
 ## Recent Work
-
 The properties of the young pulsars and their relations to the supernova remnants (SNRs) have been interesting topics.
 Here, we employ the statistical tests on the two groups of young radio pulsars with (52) and without (630) SNRs to reveal if they share different origins.
 K-S and M-W-W tests indicate that the two samples have different distributions, and the cumulative number ratio between the pulsars with (SNR-PSR) and without SNRs (non SNR-PSR) at the different spindown ages decreases significantly after 10-20 Kyr.
@@ -74,26 +71,23 @@ Thus, **we propose that there are two types of young radio pulsars that are prod
 
 <br>
 
-## Publications (the first author)
+## Publications
 
+### Repersentive Papers
+1. Fast radio bursts: do repeaters and non-repeaters originate in statistically similar ensembles?, Monthly Notices of the Royal Astronomical Society, 500, 3275. [doi:10.1093/mnras/staa3351](https://doi.org/10.1093/mnras/staa3351).
+2. Statistical tests of young radio pulsars with/without supernova remnants: implying two origins of neutron stars, Monthly Notices of the Royal Astronomical Society, 508, 279. [doi:10.1093/mnras/stab2498](https://doi.org/10.1093/mnras/stab2498).
+
+### The First Author
 1. **2021**, **Xianghan Cui**, Chengmin Zhang, Di Li, Jianwei Zhang, Bo Peng, Weiwei Zhu, Qingdong Wu, Shuangqiang Wang, Na Wang, Dehua Wang, Yiyan Yang, Zhenqi Diao, Changqing Ye, and Hsiangkuang Chang, *Statistical tests of young radio pulsars with/without supernova remnants: implying two origins of neutron stars*, Monthly Notices of the Royal Astronomical Society, 508, 279. [doi:10.1093/mnras/stab2498](https://doi.org/10.1093/mnras/stab2498).
 2. **2021**, **Xianghan Cui**, Chengmin Zhang, Shuangqiang Wang, Jianwei Zhang, Di Li, Bo Peng, Weiwei Zhu, Richard Strom, Na Wang, Qingdong Wu, Changqing Ye, Dehua Wang, Yiyan Yang, and Zhenqi Diao, *Statistical properties of fast radio bursts elucidate their origins: magnetars are favored over gamma-ray bursts*, Research in Astronomy and Astrophysics, 21, 211. [doi:10.1088/1674-4527/21/8/211](https://doi.org/10.1088/1674-4527/21/8/211).
 3. **2020**, **Xianghan Cui**, Chengmin Zhang, Shuangqiang Wang, Jianwei Zhang, Di Li, Bo Peng, Weiwei Zhu, Na Wang, Richard Strom, Changqing Ye, Dehua Wang, and Yiyan Yang, *Fast radio bursts: do repeaters and non-repeaters originate in statistically similar ensembles?*, Monthly Notices of the Royal Astronomical Society, 500, 3275. [doi:10.1093/mnras/staa3351](https://doi.org/10.1093/mnras/staa3351).
 4. **2019**, **Xianghan Cui**, Chaolin Wang, and Xinting Jia, *Nonparaxial propagation of vector vortex beams diffracted by a circular aperture*, Journal of the Optical Society of America A, 36, 115-123. [doi:10.1364/josaa.36.000115](https://doi.org/10.1364/josaa.36.000115).
-[<img src="https://user-images.githubusercontent.com/98388425/152090590-0ecd50d8-2885-46c7-93e6-d794632297a7.jpg" width="30" title='Return to TOP' align="right"/>](#jump)
 
-<br>
-
-## Collaborative Articles (co-author)
-
+### Collaborative Articles 
 1. **2021**, Jianwei Zhang, Chengmin Zhang, Di Li, Wuming Yang, **Xianghan Cui**, Dehua Wang, Yiyan Yang, Shaolan Bi, and Xianfei Zhang, *Gaussian mixture models of the total mass distribution of stellar black holes from LIGO-Virgo GWTC-2: Implications on the origin of GW190521*, Physical Review D, 104, 103010. [doi:10.1103/PhysRevD.104.103010](https://doi.org/10.1103/PhysRevD.104.103010).
 2. **2021**, Jianwei Zhang, Chengmin Zhang, Di Li, **Xianghan Cui**, Wuming Yang, Dehua Wang, Yiyan Yang, Shaolan Bi, and Xianfei Zhang, *Simulation of the gravitational wave frequency distribution of neutron star-black hole mergers*, 2021, Chinese Physics B, 30, 120401. [doi:10.1088/1674-1056/abff28](https://doi.org/10.1088/1674-1056/abff28).
-[<img src="https://user-images.githubusercontent.com/98388425/152090590-0ecd50d8-2885-46c7-93e6-d794632297a7.jpg" width="30" title='Return to TOP' align="right"/>](#jump)
 
-<br>
-
-## Book
-
+### Book 
 1. **2021**, Editorial Board Members, *Theory and practice of geotechnical investigation on FAST project*, Hubei Science & Technology Press, ISBN：9787570601202.
 [<img src="https://user-images.githubusercontent.com/98388425/152090590-0ecd50d8-2885-46c7-93e6-d794632297a7.jpg" width="30" title='Return to TOP' align="right"/>](#jump)
 
