@@ -59,6 +59,8 @@ Research Interests: Fast Radio Burst, Pulsar
 <br>
 
 ## Recent Work
+**Statistical tests of young radio pulsars with/without supernova remnants: implying two origins of neutron stars**
+
 The properties of the young pulsars and their relations to the supernova remnants (SNRs) have been interesting topics.
 Here, we employ the statistical tests on the two groups of young radio pulsars with (52) and without (630) SNRs to reveal if they share different origins.
 K-S and M-W-W tests indicate that the two samples have different distributions, and the cumulative number ratio between the pulsars with (SNR-PSR) and without SNRs (non SNR-PSR) at the different spindown ages decreases significantly after 10-20 Kyr.
