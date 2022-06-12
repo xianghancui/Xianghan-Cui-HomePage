@@ -32,10 +32,10 @@ Research Interests: Fast Radio Burst, Pulsar
 
 <h1><span id="jump">Outlook</span></h1>
 1. <h4><a href="https://xianghancui.github.io/#higher-education" >Higher Education</a></h4>
-2. <h4><a href="https://xianghancui.github.io/#research-experience" >Research Experience</a></h4>
-3. <h4><a href="https://xianghancui.github.io/#recent-work" >Recent Work</a></h4>
-4. <h4><a href="https://xianghancui.github.io/#publications" >Publications</a></h4>
-5. <h4><a href="https://xianghancui.github.io/#awards" >Awards</a></h4>
+2. <h4><a href="https://xianghancui.github.io/#recent-work" >Recent Work</a></h4>
+3. <h4><a href="https://xianghancui.github.io/#publications" >Publications</a></h4>
+4. <h4><a href="https://xianghancui.github.io/#awards" >Awards</a></h4>
+5. <h4><a href="https://xianghancui.github.io/#research-experience" >Research Experience</a></h4>
 6. <h4><a href="https://xianghancui.github.io/#more-readings" >More Readings</a></h4>
 
 ***
@@ -48,13 +48,6 @@ Research Interests: Fast Radio Burst, Pulsar
 - 2015.09-2019.06  Wuhan University of Technology (WUT), School of Natural Sciences, Department of Physics (Major B.S. degree)
 [<img src="https://user-images.githubusercontent.com/98388425/152090590-0ecd50d8-2885-46c7-93e6-d794632297a7.jpg" width="30" title='Return to TOP' align="right"/>](#jump)
 
-<br>
-
-## Research Experience
-- Research of neutron star magnetic field and its structure based on HXMT observation, Joint Funds of the National Natural Science Foundation of China, Ph.D. student participant, 2020-present
-- Pulsar statistics, timing observations and theoretical studies based on the FAST drift scanning survey data, State Key Program of National Natural Science of China, Ph.D. student participant, 2019-2021
-- Study on vectority, beam quality, and partial coherence of axisymmetric polarized beams, National Students Innovation and Entrepreneurship Training Program, Principal Investigator, 2017-2019
-[<img src="https://user-images.githubusercontent.com/98388425/152090590-0ecd50d8-2885-46c7-93e6-d794632297a7.jpg" width="30" title='Return to TOP' align="right"/>](#jump)
 
 <br>
 
@@ -100,6 +93,19 @@ Thus, **we propose that there are two types of young radio pulsars that are prod
 - 2021.11 ACAMAR 7: People's Choice Poster Award
 - 2021.10 National Scholarship (for Ph.D. students)
 - 2021.05 UCAS Merit Student
+[<img src="https://user-images.githubusercontent.com/98388425/152090590-0ecd50d8-2885-46c7-93e6-d794632297a7.jpg" width="30" title='Return to TOP' align="right"/>](#jump)
+
+<br>
+
+## Research Experience
+
+### Teaching Assistant
+- *High Energy Astrophysics and Gravitational Wave*, UCAS, Prof. Chengmin Zhang, 2021.09-2022.01
+
+### Projects
+- Research of neutron star magnetic field and its structure based on HXMT observation, Joint Funds of the National Natural Science Foundation of China, Ph.D. student participant, 2020-present
+- Pulsar statistics, timing observations and theoretical studies based on the FAST drift scanning survey data, State Key Program of National Natural Science of China, Ph.D. student participant, 2019-2021
+- Study on vectority, beam quality, and partial coherence of axisymmetric polarized beams, National Students Innovation and Entrepreneurship Training Program, Principal Investigator, 2017-2019
 [<img src="https://user-images.githubusercontent.com/98388425/152090590-0ecd50d8-2885-46c7-93e6-d794632297a7.jpg" width="30" title='Return to TOP' align="right"/>](#jump)
 
 <br>
