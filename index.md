@@ -35,7 +35,7 @@ Research Interests: Fast Radio Burst, Pulsar
 2. <h4><a href="https://xianghancui.github.io/#recent-work" >Recent Work</a></h4>
 3. <h4><a href="https://xianghancui.github.io/#publications" >Publications</a></h4>
 4. <h4><a href="https://xianghancui.github.io/#awards" >Awards</a></h4>
-5. <h4><a href="https://xianghancui.github.io/#research-experience" >Research Experience</a></h4>
+5. <h4><a href="https://xianghancui.github.io/#research-experience" >Experience</a></h4>
 6. <h4><a href="https://xianghancui.github.io/#more-readings" >More Readings</a></h4>
 
 ***
@@ -97,7 +97,7 @@ Thus, **we propose that there are two types of young radio pulsars that are prod
 
 <br>
 
-## Research Experience
+## Experience
 
 ### Teaching Assistant
 - *High Energy Astrophysics and Gravitational Wave*, UCAS, Prof. Chengmin Zhang, 2021.09-2022.01
