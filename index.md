@@ -60,7 +60,7 @@ Then, based on the CHIME/FRB Catalog 1, we selected the data with 7 steps, and 1
 **By analysing 125 them, we found that the distribution of their luminosity follows a lognormal form according to several statistical tests.**
 In addition, we tested the validity of the luminosity distribution up to the Macquart relation and found that the lognormal form feature decreases as the uncertainty increases if we injected error into the distance estimation.
 Moreover, we compared the luminosity of these apparent non-repeaters with that of the previously observed 10 repeating FRBs also at low DM, noting that they belong to different lognormal distributions.
-Therefore, from the two different lognormal distributions, different mechanisms and diversity for FRBs can be implied
+Therefore, from the two different lognormal distributions, different mechanisms and diversity for FRBs can be implied.
 
 
 <p align="center">
@@ -76,7 +76,7 @@ Therefore, from the two different lognormal distributions, different mechanisms 
 1. Fast radio bursts: do repeaters and non-repeaters originate in statistically similar ensembles?, Monthly Notices of the Royal Astronomical Society, 500, 3275. [doi:10.1093/mnras/staa3351](https://doi.org/10.1093/mnras/staa3351).
 2. Statistical tests of young radio pulsars with/without supernova remnants: implying two origins of neutron stars, Monthly Notices of the Royal Astronomical Society, 508, 279. [doi:10.1093/mnras/stab2498](https://doi.org/10.1093/mnras/stab2498).
 
-### The First Author Articles
+### First Author Articles
 1. **2021**, **Xianghan Cui**, Chengmin Zhang, Di Li, Jianwei Zhang, Bo Peng, Weiwei Zhu, Qingdong Wu, Shuangqiang Wang, Na Wang, Dehua Wang, Yiyan Yang, Zhenqi Diao, Changqing Ye, and Hsiangkuang Chang, *Statistical tests of young radio pulsars with/without supernova remnants: implying two origins of neutron stars*, Monthly Notices of the Royal Astronomical Society, 508, 279. [doi:10.1093/mnras/stab2498](https://doi.org/10.1093/mnras/stab2498).
 2. **2021**, **Xianghan Cui**, Chengmin Zhang, Shuangqiang Wang, Jianwei Zhang, Di Li, Bo Peng, Weiwei Zhu, Richard Strom, Na Wang, Qingdong Wu, Changqing Ye, Dehua Wang, Yiyan Yang, and Zhenqi Diao, *Statistical properties of fast radio bursts elucidate their origins: magnetars are favored over gamma-ray bursts*, Research in Astronomy and Astrophysics, 21, 211. [doi:10.1088/1674-4527/21/8/211](https://doi.org/10.1088/1674-4527/21/8/211).
 3. **2020**, **Xianghan Cui**, Chengmin Zhang, Shuangqiang Wang, Jianwei Zhang, Di Li, Bo Peng, Weiwei Zhu, Na Wang, Richard Strom, Changqing Ye, Dehua Wang, and Yiyan Yang, *Fast radio bursts: do repeaters and non-repeaters originate in statistically similar ensembles?*, Monthly Notices of the Royal Astronomical Society, 500, 3275. [doi:10.1093/mnras/staa3351](https://doi.org/10.1093/mnras/staa3351).
