@@ -52,15 +52,19 @@ Research Interests: Fast Radio Burst, Pulsar
 <br>
 
 ## Recent Work
-**Statistical tests of young radio pulsars with/without supernova remnants: implying two origins of neutron stars**
+**FRB luminosity distribution]{Luminosity distribution of fast radio bursts from CHIME/FRB Catalog 1 by the updated Macquart relation**
 
-The properties of the young pulsars and their relations to the supernova remnants (SNRs) have been interesting topics.
-Here, we employ the statistical tests on the two groups of young radio pulsars with (52) and without (630) SNRs to reveal if they share different origins.
-K-S and M-W-W tests indicate that the two samples have different distributions, and the cumulative number ratio between the pulsars with (SNR-PSR) and without SNRs (non SNR-PSR) at the different spindown ages decreases significantly after 10-20 Kyr.
-Thus, **we propose that there are two types of young radio pulsars that are produced by two types of supernovae (SNe)**, corresponding to their SNR lifetimes, which can be roughly ascribed to the low-energy and high-energy SNe.
+In this work, we mainly focused on which luminosity distribution is more suitable for the CHIME-FRBs.
+To begin with, the FRB distance is estimated by using the Macquart relation which was obtained for 8 localized FRBs, and we find it still applicable for 18 sources after adding the latest 10 new localized FRBs.
+Then, based on the CHIME/FRB Catalog 1, we selected the data with 7 steps, and 125 apparent non-repeaters remained.
+**By analysing 125 them, we found that the distribution of their luminosity follows a lognormal form according to several statistical tests.**
+In addition, we tested the validity of the luminosity distribution up to the Macquart relation and found that the lognormal form feature decreases as the uncertainty increases if we injected error into the distance estimation.
+Moreover, we compared the luminosity of these apparent non-repeaters with that of the previously observed 10 repeating FRBs also at low DM, noting that they belong to different lognormal distributions.
+Therefore, from the two different lognormal distributions, different mechanisms and diversity for FRBs can be implied
+
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/98388425/151129757-63b6c26d-b8e8-481f-9ae5-f817f99dfc6b.png" width="400" />  <img src="https://user-images.githubusercontent.com/98388425/151129773-22031b72-4f86-4fc6-9de0-d3759f453cd6.png" width="400" />
+<img src="https://user-images.githubusercontent.com/98388425/176598937-145e1152-c83e-439f-b4c1-a2a62e73cd40.png" width="400" />  <img src="https://user-images.githubusercontent.com/98388425/176599285-c653ee44-5d65-4813-99ea-bcc084511595.png" width="400" />
 </p>
 [<img src="https://user-images.githubusercontent.com/98388425/152090590-0ecd50d8-2885-46c7-93e6-d794632297a7.jpg" width="30" title='Return to TOP' align="right"/>](#jump)
 
