@@ -52,7 +52,7 @@ Research Interests: Fast Radio Burst, Pulsar
 <br>
 
 ## Recent Work
-**FRB luminosity distribution]{Luminosity distribution of fast radio bursts from CHIME/FRB Catalog 1 by the updated Macquart relation**
+**Luminosity distribution of fast radio bursts from CHIME/FRB Catalog 1 by the updated Macquart relation**
 
 In this work, we mainly focused on which luminosity distribution is more suitable for the CHIME-FRBs.
 To begin with, the FRB distance is estimated by using the Macquart relation which was obtained for 8 localized FRBs, and we find it still applicable for 18 sources after adding the latest 10 new localized FRBs.
