@@ -52,16 +52,9 @@ Research Interests: Fast Radio Burst, Pulsar
 <br>
 
 ## Recent Work
-**Luminosity distribution of fast radio bursts from CHIME/FRB Catalog 1 by the updated Macquart relation**
 
-In this work, we mainly focused on which luminosity distribution is more suitable for the CHIME-FRBs.
-To begin with, the FRB distance is estimated by using the Macquart relation which was obtained for 8 localized FRBs, and we find it still applicable for 18 sources after adding the latest 10 new localized FRBs.
-Then, based on the CHIME/FRB Catalog 1, we selected the data with 7 steps, and 125 apparent non-repeaters remained.
-**By analysing 125 them, we found that the distribution of their luminosity follows a lognormal form according to several statistical tests.**
-In addition, we tested the validity of the luminosity distribution up to the Macquart relation and found that the lognormal form feature decreases as the uncertainty increases if we injected error into the distance estimation.
-Moreover, we compared the luminosity of these apparent non-repeaters with that of the previously observed 10 repeating FRBs also at low DM, noting that they belong to different lognormal distributions.
-Therefore, from the two different lognormal distributions, different mechanisms and diversity for FRBs can be implied.
-
+**Evolution of spin period and magnetic field of the Crab pulsar: decay of the braking index by the particle wind flow torque**
+In this work, we built a concise model to explain and predict the evolution of the Crab pulsar, which considered the MDR and particle wind flow component. Especially, we gave exact analytic solutions on Spin-down, characteristic B-field, and characteristic age. Based on these, we had three related conclusions: (1) unlike the constant characteristic B-field suggested by the MDR model, this value for the Crab pulsar increases by a hundred times in 50 kyr while its real B-field has no change; (2) the rotational braking index evolves from ∼ 3 to 1 for a long-term and drops from 2.51 to 2.50 in ∼ 45-year at the present stage, while the particle flow contributes about 25% of the total rotational energy loss rate; (3) strikingly, the characteristic age has the maximum limit of ∼ 10 kyr, meaning that it is not always a good indicator of a real age.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/98388425/176598937-145e1152-c83e-439f-b4c1-a2a62e73cd40.png" width="400" />  <img src="https://user-images.githubusercontent.com/98388425/176599285-c653ee44-5d65-4813-99ea-bcc084511595.png" width="400" />
@@ -73,8 +66,8 @@ Therefore, from the two different lognormal distributions, different mechanisms 
 ## Publications
 
 ### Repersentive Papers
-1. Fast radio bursts: do repeaters and non-repeaters originate in statistically similar ensembles?, Monthly Notices of the Royal Astronomical Society, 500, 3275. [doi:10.1093/mnras/staa3351](https://doi.org/10.1093/mnras/staa3351).
-2. Statistical tests of young radio pulsars with/without supernova remnants: implying two origins of neutron stars, Monthly Notices of the Royal Astronomical Society, 508, 279. [doi:10.1093/mnras/stab2498](https://doi.org/10.1093/mnras/stab2498).
+1. Evolution of spin period and magnetic field of the Crab pulsar: decay of the braking index by the particle wind flow torque, Universe, accepted.
+2. Fast radio bursts: do repeaters and non-repeaters originate in statistically similar ensembles?, Monthly Notices of the Royal Astronomical Society, 500, 3275. [doi:10.1093/mnras/staa3351](https://doi.org/10.1093/mnras/staa3351).
 
 ### First Author Articles
 1. **2022**, **Xianghan Cui**, Chengmin Zhang, Di Li, Jianwei Zhang, Bo Peng, Weiwei Zhu, Richard Strom, Shuangqiang Wang, Na Wang, Qingdong Wu, Dehua Wang, Yiyan Yang, *Luminosity distribution of fast radio bursts from CHIME/FRB Catalog 1 by means of the updated Macquart relation*, AstrophysicsandSpaceScience, 367, 66. [doi:10.1007/s10509-022-04093-y](https://link.springer.com/article/10.1007/s10509-022-04093-y).
