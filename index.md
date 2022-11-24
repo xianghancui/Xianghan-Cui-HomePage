@@ -31,7 +31,7 @@ Research Interests: Fast Radio Burst, Pulsar
 <br>
 
 <h1><span id="jump">Outlook</span></h1>
-1. <h4><a href="https://xianghancui.github.io/#education-background" >Higher Education</a></h4>
+1. <h4><a href="https://xianghancui.github.io/#education-background" >Education Background</a></h4>
 2. <h4><a href="https://xianghancui.github.io/#recent-work" >Recent Work</a></h4>
 3. <h4><a href="https://xianghancui.github.io/#publications" >Publications</a></h4>
 4. <h4><a href="https://xianghancui.github.io/#awards" >Awards</a></h4>
