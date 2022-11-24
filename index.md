@@ -84,8 +84,10 @@ Therefore, from the two different lognormal distributions, different mechanisms 
 5. **2019**, **Xianghan Cui**, Chaolin Wang, and Xinting Jia, *Nonparaxial propagation of vector vortex beams diffracted by a circular aperture*, Journal of the Optical Society of America A, 36, 115-123. [doi:10.1364/josaa.36.000115](https://doi.org/10.1364/josaa.36.000115).
 
 ### Collaborative Articles 
-1. **2021**, Jianwei Zhang, Chengmin Zhang, Di Li, Wuming Yang, **Xianghan Cui**, Dehua Wang, Yiyan Yang, Shaolan Bi, and Xianfei Zhang, *Gaussian mixture models of the total mass distribution of stellar black holes from LIGO-Virgo GWTC-2: Implications on the origin of GW190521*, Physical Review D, 104, 103010. [doi:10.1103/PhysRevD.104.103010](https://doi.org/10.1103/PhysRevD.104.103010).
-2. **2021**, Jianwei Zhang, Chengmin Zhang, Di Li, **Xianghan Cui**, Wuming Yang, Dehua Wang, Yiyan Yang, Shaolan Bi, and Xianfei Zhang, *Simulation of the gravitational wave frequency distribution of neutron star-black hole mergers*, 2021, Chinese Physics B, 30, 120401. [doi:10.1088/1674-1056/abff28](https://doi.org/10.1088/1674-1056/abff28).
+1. **2022**, Chengmin Zhang, Xianghan Cui, Li Di, et al., *Evolution of spin period and magnetic field of the Crab pulsar: decay of the braking index by the particle wind flow torque*, Universe, accepted.
+2. **2022**, Jianwei Zhang, Chengmin Zhang, Di Li, Wuming Yang, **Xianghan Cui**, et al., *Revisiting the Magnetic Field Distribution of Normal Pulsars: Implications for the Multiple Origins for Neutron Stars*, Publications of the Astronomical Society of the Pacific,  [doi:10.1088/1538-3873/ac9ad8](https://iopscience.iop.org/article/10.1088/1538-3873/ac9ad8).
+3. **2021**, Jianwei Zhang, Chengmin Zhang, Di Li, Wuming Yang, **Xianghan Cui**, et al., *Gaussian mixture models of the total mass distribution of stellar black holes from LIGO-Virgo GWTC-2: Implications on the origin of GW190521*, Physical Review D, 104, 103010. [doi:10.1103/PhysRevD.104.103010](https://doi.org/10.1103/PhysRevD.104.103010).
+4. **2021**, Jianwei Zhang, Chengmin Zhang, Di Li, **Xianghan Cui**, et al., *Simulation of the gravitational wave frequency distribution of neutron star-black hole mergers*, 2021, Chinese Physics B, 30, 120401. [doi:10.1088/1674-1056/abff28](https://doi.org/10.1088/1674-1056/abff28).
 
 ### Book 
 1. **2021**, Editorial Board Members, *Theory and practice of geotechnical investigation on FAST project*, Hubei Science & Technology Press, ISBN：9787570601202.
