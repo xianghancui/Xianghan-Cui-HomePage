@@ -54,10 +54,11 @@ Research Interests: Fast Radio Burst, Pulsar
 ## Recent Work
 
 **Evolution of spin period and magnetic field of the Crab pulsar: decay of the braking index by the particle wind flow torque**
+
 In this work, we built a concise model to explain and predict the evolution of the Crab pulsar, which considered the MDR and particle wind flow component. Especially, we gave exact analytic solutions on Spin-down, characteristic B-field, and characteristic age. Based on these, we had three related conclusions: (1) unlike the constant characteristic B-field suggested by the MDR model, this value for the Crab pulsar increases by a hundred times in 50 kyr while its real B-field has no change; (2) the rotational braking index evolves from ∼ 3 to 1 for a long-term and drops from 2.51 to 2.50 in ∼ 45-year at the present stage, while the particle flow contributes about 25% of the total rotational energy loss rate; (3) strikingly, the characteristic age has the maximum limit of ∼ 10 kyr, meaning that it is not always a good indicator of a real age.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/98388425/176598937-145e1152-c83e-439f-b4c1-a2a62e73cd40.png" width="400" />  <img src="https://user-images.githubusercontent.com/98388425/176599285-c653ee44-5d65-4813-99ea-bcc084511595.png" width="400" />
+<img src="https://user-images.githubusercontent.com/98388425/203768913-a578c787-da80-49a5-b1a6-d7d97b29897f.png" width="400" />  <img src="https://user-images.githubusercontent.com/98388425/203769052-99cff137-d26e-4f44-8bdf-304d3ba2177e.png" width="400" />
 </p>
 [<img src="https://user-images.githubusercontent.com/98388425/152090590-0ecd50d8-2885-46c7-93e6-d794632297a7.jpg" width="30" title='Return to TOP' align="right"/>](#jump)
 
