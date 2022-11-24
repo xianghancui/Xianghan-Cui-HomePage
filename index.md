@@ -31,7 +31,7 @@ Research Interests: Fast Radio Burst, Pulsar
 <br>
 
 <h1><span id="jump">Outlook</span></h1>
-1. <h4><a href="https://xianghancui.github.io/#higher-education" >Higher Education</a></h4>
+1. <h4><a href="https://xianghancui.github.io/#education-background" >Higher Education</a></h4>
 2. <h4><a href="https://xianghancui.github.io/#recent-work" >Recent Work</a></h4>
 3. <h4><a href="https://xianghancui.github.io/#publications" >Publications</a></h4>
 4. <h4><a href="https://xianghancui.github.io/#awards" >Awards</a></h4>
@@ -41,7 +41,7 @@ Research Interests: Fast Radio Burst, Pulsar
 
 <br>
 
-## Higher Education
+## Education Background
 - 2019.09-present  University of Chinese Academy of Sciences (UCAS), National Astronomical Observatories (NAOC), Radio Astronomy, <a href="http://groups.bao.ac.cn/ism/" target='_blank' title='WELCOME to visit ISM👋'>ISM Research Group</a>, Master and Ph.D. student
 - 2017.03-2018.06  Huazhong University of Science and Technology (HUST), School of Management (Minor degree)
 - 2015.09-2019.06  Wuhan University of Technology (WUT), School of Natural Sciences, Department of Physics (Major B.S. degree)
@@ -65,12 +65,12 @@ In this work, we built a concise model to explain and predict the evolution of t
 
 ## Publications
 
-### Repersentive Papers
+### Representative Papers
 1. Evolution of spin period and magnetic field of the Crab pulsar: decay of the braking index by the particle wind flow torque, accepted by Universe recently.
 2. Fast radio bursts: do repeaters and non-repeaters originate in statistically similar ensembles?, Monthly Notices of the Royal Astronomical Society, 500, 3275. [doi:10.1093/mnras/staa3351](https://doi.org/10.1093/mnras/staa3351).
 
 ### First Author Articles
-1. **2022**, **Xianghan Cui**, Chengmin Zhang, Di Li, Jianwei Zhang, Bo Peng, Weiwei Zhu, Richard Strom, Shuangqiang Wang, Na Wang, Qingdong Wu, Dehua Wang, Yiyan Yang, *Luminosity distribution of fast radio bursts from CHIME/FRB Catalog 1 by means of the updated Macquart relation*, AstrophysicsandSpaceScience, 367, 66. [doi:10.1007/s10509-022-04093-y](https://link.springer.com/article/10.1007/s10509-022-04093-y).
+1. **2022**, **Xianghan Cui**, Chengmin Zhang, Di Li, Jianwei Zhang, Bo Peng, Weiwei Zhu, Richard Strom, Shuangqiang Wang, Na Wang, Qingdong Wu, Dehua Wang, Yiyan Yang, *Luminosity distribution of fast radio bursts from CHIME/FRB Catalog 1 by means of the updated Macquart relation*, Astrophysics and Space Science, 367, 66. [doi:10.1007/s10509-022-04093-y](https://link.springer.com/article/10.1007/s10509-022-04093-y).
 2.  **2021**, **Xianghan Cui**, Chengmin Zhang, Di Li, Jianwei Zhang, Bo Peng, Weiwei Zhu, Qingdong Wu, Shuangqiang Wang, Na Wang, Dehua Wang, Yiyan Yang, Zhenqi Diao, Changqing Ye, and Hsiangkuang Chang, *Statistical tests of young radio pulsars with/without supernova remnants: implying two origins of neutron stars*, Monthly Notices of the Royal Astronomical Society, 508, 279. [doi:10.1093/mnras/stab2498](https://doi.org/10.1093/mnras/stab2498).
 3. **2021**, **Xianghan Cui**, Chengmin Zhang, Shuangqiang Wang, Jianwei Zhang, Di Li, Bo Peng, Weiwei Zhu, Richard Strom, Na Wang, Qingdong Wu, Changqing Ye, Dehua Wang, Yiyan Yang, and Zhenqi Diao, *Statistical properties of fast radio bursts elucidate their origins: magnetars are favored over gamma-ray bursts*, Research in Astronomy and Astrophysics, 21, 211. [doi:10.1088/1674-4527/21/8/211](https://doi.org/10.1088/1674-4527/21/8/211).
 4. **2020**, **Xianghan Cui**, Chengmin Zhang, Shuangqiang Wang, Jianwei Zhang, Di Li, Bo Peng, Weiwei Zhu, Na Wang, Richard Strom, Changqing Ye, Dehua Wang, and Yiyan Yang, *Fast radio bursts: do repeaters and non-repeaters originate in statistically similar ensembles?*, Monthly Notices of the Royal Astronomical Society, 500, 3275. [doi:10.1093/mnras/staa3351](https://doi.org/10.1093/mnras/staa3351).
