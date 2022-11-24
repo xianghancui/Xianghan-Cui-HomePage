@@ -31,7 +31,7 @@ Research Interests: Fast Radio Burst, Pulsar
 <br>
 
 <h1><span id="jump">Outlook</span></h1>
-1. <h4><a href="https://xianghancui.github.io/#education-background" >Education Background</a></h4>
+1. <h4><a href="https://xianghancui.github.io/#education" >Education</a></h4>
 2. <h4><a href="https://xianghancui.github.io/#recent-work" >Recent Work</a></h4>
 3. <h4><a href="https://xianghancui.github.io/#publications" >Publications</a></h4>
 4. <h4><a href="https://xianghancui.github.io/#awards" >Awards</a></h4>
@@ -41,7 +41,7 @@ Research Interests: Fast Radio Burst, Pulsar
 
 <br>
 
-## Education Background
+## Education
 - 2019.09-present  University of Chinese Academy of Sciences (UCAS), National Astronomical Observatories (NAOC), Radio Astronomy, <a href="http://groups.bao.ac.cn/ism/" target='_blank' title='WELCOME to visit ISM👋'>ISM Research Group</a>, Master and Ph.D. student
 - 2017.03-2018.06  Huazhong University of Science and Technology (HUST), School of Management (Minor degree)
 - 2015.09-2019.06  Wuhan University of Technology (WUT), School of Natural Sciences, Department of Physics (Major B.S. degree)
