@@ -36,7 +36,6 @@ Research Interests: Fast Radio Burst, Pulsar
 3. <h4><a href="https://xianghancui.github.io/#publications" >Publications</a></h4>
 4. <h4><a href="https://xianghancui.github.io/#awards" >Awards</a></h4>
 5. <h4><a href="https://xianghancui.github.io/#research-experience" >Experience</a></h4>
-6. <h4><a href="https://xianghancui.github.io/#more-readings" >More Readings</a></h4>
 
 ***
 
@@ -67,7 +66,7 @@ In this work, we built a concise model to explain and predict the evolution of t
 ## Publications
 
 ### Repersentive Papers
-1. Evolution of spin period and magnetic field of the Crab pulsar: decay of the braking index by the particle wind flow torque, Universe, accepted.
+1. Evolution of spin period and magnetic field of the Crab pulsar: decay of the braking index by the particle wind flow torque, accepted by Universe recently.
 2. Fast radio bursts: do repeaters and non-repeaters originate in statistically similar ensembles?, Monthly Notices of the Royal Astronomical Society, 500, 3275. [doi:10.1093/mnras/staa3351](https://doi.org/10.1093/mnras/staa3351).
 
 ### First Author Articles
@@ -78,7 +77,7 @@ In this work, we built a concise model to explain and predict the evolution of t
 5. **2019**, **Xianghan Cui**, Chaolin Wang, and Xinting Jia, *Nonparaxial propagation of vector vortex beams diffracted by a circular aperture*, Journal of the Optical Society of America A, 36, 115-123. [doi:10.1364/josaa.36.000115](https://doi.org/10.1364/josaa.36.000115).
 
 ### Collaborative Articles 
-1. **2022**, Chengmin Zhang, Xianghan Cui, Li Di, et al., *Evolution of spin period and magnetic field of the Crab pulsar: decay of the braking index by the particle wind flow torque*, Universe, accepted.
+1. **2022**, Chengmin Zhang, Xianghan Cui, Li Di, et al., *Evolution of spin period and magnetic field of the Crab pulsar: decay of the braking index by the particle wind flow torque*, accepted by Universe recently.
 2. **2022**, Jianwei Zhang, Chengmin Zhang, Di Li, Wuming Yang, **Xianghan Cui**, et al., *Revisiting the Magnetic Field Distribution of Normal Pulsars: Implications for the Multiple Origins for Neutron Stars*, Publications of the Astronomical Society of the Pacific,  [doi:10.1088/1538-3873/ac9ad8](https://iopscience.iop.org/article/10.1088/1538-3873/ac9ad8).
 3. **2021**, Jianwei Zhang, Chengmin Zhang, Di Li, Wuming Yang, **Xianghan Cui**, et al., *Gaussian mixture models of the total mass distribution of stellar black holes from LIGO-Virgo GWTC-2: Implications on the origin of GW190521*, Physical Review D, 104, 103010. [doi:10.1103/PhysRevD.104.103010](https://doi.org/10.1103/PhysRevD.104.103010).
 4. **2021**, Jianwei Zhang, Chengmin Zhang, Di Li, **Xianghan Cui**, et al., *Simulation of the gravitational wave frequency distribution of neutron star-black hole mergers*, 2021, Chinese Physics B, 30, 120401. [doi:10.1088/1674-1056/abff28](https://doi.org/10.1088/1674-1056/abff28).
@@ -91,6 +90,7 @@ In this work, we built a concise model to explain and predict the evolution of t
 
 ## Awards
 
+- 2022.11 Scholarship of the Chinese Astronomical Society
 - 2021.11 ACAMAR 7: People's Choice Poster Award
 - 2021.10 National Scholarship (for Ph.D. students)
 - 2021.05 UCAS Merit Student
@@ -110,14 +110,6 @@ In this work, we built a concise model to explain and predict the evolution of t
 [<img src="https://user-images.githubusercontent.com/98388425/152090590-0ecd50d8-2885-46c7-93e6-d794632297a7.jpg" width="30" title='Return to TOP' align="right"/>](#jump)
 
 <br>
-
-## More Readings
-
-- <a href="https://mp.weixin.qq.com/s/2UJfXPuahXZYeTqhgBQnAw" target='_blank' title='ExtPage of Cui'>A brief introduction on this site</a>
-- <a href="https://mp.weixin.qq.com/s/1uPiujwwpfh3-Pow3H-iTg" target='_blank' title=''>Do repeating and non-repeating FRBs have the same statistical origin?</a>
-
-Coming soon for more...
-[<img src="https://user-images.githubusercontent.com/98388425/152090590-0ecd50d8-2885-46c7-93e6-d794632297a7.jpg" width="30" title='Return to TOP' align="right"/>](#jump)
 
 
 <br>
